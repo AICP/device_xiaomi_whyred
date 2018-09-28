@@ -26,7 +26,7 @@ $(call inherit-product, vendor/aicp/config/common_full_phone.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Inherit from miui camera
-$(call inherit-product, vendor/xiaomi/MiuiCamera/config.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/MiuiCamera/config.mk)
 
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
