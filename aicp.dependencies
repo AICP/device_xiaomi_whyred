@@ -1,6 +1,6 @@
 [
   {
-    "repository": "AICP/android_device_xiaomi_sdm660-common",
+    "repository": "AICP/device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
     "branch": "r11.1"
   }
