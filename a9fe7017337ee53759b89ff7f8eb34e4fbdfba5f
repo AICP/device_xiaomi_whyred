@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be55d1d1_a078ed41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2021-05-28T14:44:19Z",
+      "side": 1,
+      "message": "better to just copy value of BUILD_FINGERPRINT to PRODUCT_OVERRIDE_FINGERPRINT, less duplication that way",
+      "revId": "a9fe7017337ee53759b89ff7f8eb34e4fbdfba5f",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
