@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "79dc1414_bd3b3f7b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1785
+      },
+      "writtenOn": "2021-05-30T08:15:52Z",
+      "side": 1,
+      "message": "Works fine safetynet passed",
+      "revId": "5815817935c00360433721cd51b9474729f36fed",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
