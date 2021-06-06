@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "642c74e5_420fe4cd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2021-06-06T03:24:31Z",
+      "side": 1,
+      "message": "Kindly add both of your device repos to \"Notification\" section in your gerrit settings panel to watch for changes on the repos\n",
+      "revId": "941674e6af27322096224dbb7a33f8cbcad62fcb",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
